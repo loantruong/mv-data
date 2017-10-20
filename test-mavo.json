@@ -24,6 +24,26 @@
 					]
 				}
 			]
+		},
+		{
+			"picture": "https://cdn.rawgit.com/Cegaz/mv-data/34440f2697039c1feac39502d64cdbc4db66469e/images/calvin.jpeg",
+			"name": "La grosse bouffe",
+			"visite": [
+				{
+					"date": "20/10/2017",
+					"title": "Plat du jour",
+					"plat": [
+						{
+							"name": "kebab",
+							"dishRating": 8.5
+						},
+						{
+							"name": "salade de homards",
+							"dishRating": 1.5
+						}
+					]
+				}
+			]
 		}
 	]
 }
